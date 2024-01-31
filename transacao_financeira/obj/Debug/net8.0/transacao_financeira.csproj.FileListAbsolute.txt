@@ -31,3 +31,4 @@
 /Users/ricardogelli/Projects/case/transacao_financeira/transacao_financeira/obj/Debug/net8.0/transacao_financeira.pdb
 /Users/ricardogelli/Projects/case/transacao_financeira/transacao_financeira/obj/Debug/net8.0/transacao_financeira.genruntimeconfig.cache
 /Users/ricardogelli/Projects/case/transacao_financeira/transacao_financeira/obj/Debug/net8.0/ref/transacao_financeira.dll
+/Users/ricardogelli/Projects/case/transacao_financeira/transacao_financeira/obj/Debug/net8.0/transacao_financeira.sourcelink.json

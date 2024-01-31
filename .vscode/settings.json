@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "transacao_financeira.sln"
+    "dotnet.defaultSolution": "transacao_financeira.sln",
+    "msbuildProjectTools.nuget.includePreRelease": true
 }
